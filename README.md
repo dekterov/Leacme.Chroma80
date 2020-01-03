@@ -4,6 +4,7 @@
 
 This application features the ability to use the embedded [FFmpeg](https://ffmpeg.org/) binaries to convert media files to various formats.
 
+![index](https://user-images.githubusercontent.com/6654513/71701869-8302f500-2d89-11ea-92c8-5776bca03645.png)
 ![][image_screenshot]
 
 ## Application Compiling
